@@ -1,5 +1,5 @@
 # Name catalogue
-A nomenclature for when you need help naming things, includes guidance, patterns and usage examples to develop a common volcabulary.
+A nomenclature when you need help naming things, includes guidance, patterns and usage examples to develop a common volcabulary.
 
 ## Retrieving a resource
 Provider
